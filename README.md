@@ -1,1 +1,1 @@
-# railway_ticket_booking_syate_using_scheduling_algo
+# railway_ticket_booking_system_using_scheduling_algo
